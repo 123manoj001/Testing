@@ -10,4 +10,8 @@ public static void main(String[] args)
 	{
 	System.out.println("m1 of B");
 	}
+	public void m2()
+	{
+	System.out.println("m2 of B")
+	}
 }
